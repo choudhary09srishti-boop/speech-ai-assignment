@@ -1,0 +1,31 @@
+id,manual_correct_0_or_1,manual_hallucination_0_or_1,reason
+83,0,1,invents Maharashtra cities and drops the Katrina dispute
+53,0,0,distorts meaning into a permission command
+70,1,0,wild card and South Africa parks kept
+45,1,0,keeps sky mountains and cave view
+44,0,0,drops pigs as the cause
+39,0,0,instruction noise with no clear summary
+22,1,0,keeps High Middle Ages idea but no dates
+80,1,0,faithful copy of the sentence
+10,0,1,invents economic method and 20 million figure
+0,1,0,faithful copy of the sentence
+18,0,1,gibberish and invented name
+30,0,0,list fragments with no summary
+73,0,1,unrelated and claims success
+33,0,0,unrelated response
+90,1,0,faithful copy of the sentence
+4,1,0,keeps main idea about technology and society
+76,1,1,keeps game ban but adds invented death claim
+77,1,0,keeps cabbage juice and chemical idea
+12,1,0,keeps notation as label idea
+31,1,0,keeps cheap gorilla trekking and volcano base
+55,1,1,keeps main idea but adds modern features claim
+88,0,1,mostly rambling with invented praise
+26,1,0,keeps radio site fact
+42,1,0,keeps micro expression claim
+69,0,0,unrelated response
+15,1,1,keeps Amazon share but swaps oceans for pandemic
+40,0,0,repeats its own system prompt
+96,1,1,keeps Aristotle idea but adds invented list items
+9,0,1,drops buildings and adds invented claim
+72,1,0,keeps Romance languages idea

@@ -12,6 +12,7 @@ Experiment: clean vs noisy (5 dB white noise) vs noisy + `noisereduce`.
 6. `python step2_asr_experiments.py`
 7. `python step3_llm_responses.py`
 8. `python step4_report_tables.py`
+9. 'python step5_analysis.py'  (extra analysis; needs results/manual_review_filled.csv for the manual-review section)
 Outputs are in `results/`. Or just open `run_on_colab.ipynb`.
 
 ## Definitions

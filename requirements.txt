@@ -1,0 +1,11 @@
+torch
+transformers>=4.44
+datasets>=2.19,<4.0
+soundfile
+librosa
+numpy
+pandas
+noisereduce
+matplotlib
+accelerate
+tqdm

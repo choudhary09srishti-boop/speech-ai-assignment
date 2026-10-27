@@ -1,0 +1,10 @@
+{
+  "whisper_model": "openai/whisper-small",
+  "snr_db": 5,
+  "seed": 42,
+  "n_samples": 100,
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.20.2",
+  "python": "3.13.16"
+}
